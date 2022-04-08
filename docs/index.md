@@ -1,3 +1,12 @@
+---
+layout: default
+title: Home
+nav_order: 1
+has_children: false
+---
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/TwinCAT-Libre/twincat-libre.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
