@@ -1,9 +1,1 @@
-remote_theme: marella/jekyll-theme-documentation
-
-nav: 
-  - Libraries:
-    - Timers:
-  - Wix Installers:
-    - PLC:
-    - HMI:
-  
+remote_theme: just-the-docs/just-the-docs
