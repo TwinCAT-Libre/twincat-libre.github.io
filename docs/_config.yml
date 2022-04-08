@@ -1,1 +1,9 @@
 remote_theme: marella/jekyll-theme-documentation
+
+nav: 
+  - Libraries:
+    - Timers:
+  - Wix Installers:
+    - PLC:
+    - HMI:
+  
