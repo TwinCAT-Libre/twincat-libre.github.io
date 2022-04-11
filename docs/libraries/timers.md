@@ -29,7 +29,12 @@ Monitors a boolean input signal, if no state change is deteced in the preset tim
 
 ## TON
 ![TON](https://github.com/TwinCAT-Libre/source/blob/master/TcL_Timers/imgs/TON.jpg)
+
 ![TON](https://github.com/TwinCAT-Libre/source/raw/master/TcL_Timers/imgs/TON.jpg)
+
+![TON](https://raw.githubusercontent.com/TwinCAT-Libre/source/master/TcL_Timers/imgs/Heartbeat.jpg?token=${{secrets.READ_PRIVATE_TOKEN}})
+
+![TON](https://raw.githubusercontent.com/TwinCAT-Libre/source/master/TcL_Timers/imgs/Heartbeat.jpg?token=${{secrets.READ_PRIVATE_TOKEN2}})
 
 
 Extension of the basic on delay timer with additional data - actively timing, remaining time. 
