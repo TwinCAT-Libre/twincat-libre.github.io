@@ -18,12 +18,13 @@ parent: Libraries
 ## BaseTimer
 
 ## Heartbeat
-![Heartbeat](https://github.com/TwinCAT-Libre/images/blob/main/Timers/Heartbeat.jpg)
+![Heartbeat](https://github.com/TwinCAT-Libre/images/blob/main/Timers/Heartbeat.jpg?raw=true)
+
 
 Toggle a boolean TRUE and then FALSE in one period.
 
 ## Watchdog
-![Watchdog](https://raw.githubusercontent.com/TwinCAT-Libre/source/blob/master/TcL_Timers/imgs/Watchdog.jpg)
+![Watchdog](https://raw.githubusercontent.com/TwinCAT-Libre/source/blob/master/TcL_Timers/imgs/Watchdog.jpg?raw=true)
 
 Monitors a boolean input signal, if no state change is deteced in the preset time, output is set true. 
 
