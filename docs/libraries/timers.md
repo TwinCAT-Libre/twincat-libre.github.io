@@ -18,9 +18,9 @@ parent: Libraries
 ## BaseTimer
 
 ## Heartbeat
-![Heartbeat](https://raw.githubusercontent.com/TwinCAT-Libre/source/blob/master/TcL_Timers/imgs/Heartbeat.jpg)
+![Heartbeat](https://github.com/TwinCAT-Libre/images/blob/main/Timers/Heartbeat.jpg)
 
-Sets an output bit TRUE and then FALSE in one period.
+Toggle a boolean TRUE and then FALSE in one period.
 
 ## Watchdog
 ![Watchdog](https://raw.githubusercontent.com/TwinCAT-Libre/source/blob/master/TcL_Timers/imgs/Watchdog.jpg)
