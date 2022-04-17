@@ -20,38 +20,31 @@ parent: Libraries
 ## Heartbeat
 ![Heartbeat](https://github.com/TwinCAT-Libre/images/blob/main/Timers/Heartbeat.jpg?raw=true)
 
-
 Toggle a boolean TRUE and then FALSE in one period.
 
 ## Watchdog
-![Watchdog](https://raw.githubusercontent.com/TwinCAT-Libre/source/blob/master/TcL_Timers/imgs/Watchdog.jpg?raw=true)
+![Watchdog](https://github.com/TwinCAT-Libre/images/blob/main/Timers/Watchdog.jpg?raw=true)
 
 Monitors a boolean input signal, if no state change is deteced in the preset time, output is set true. 
 
 ## TON
-![TON](https://github.com/TwinCAT-Libre/source/blob/master/TcL_Timers/imgs/TON.jpg)
-
-![TON](https://github.com/TwinCAT-Libre/source/raw/master/TcL_Timers/imgs/TON.jpg)
-
-![TON](https://raw.githubusercontent.com/TwinCAT-Libre/source/master/TcL_Timers/imgs/Heartbeat.jpg?token=${{secrets.READ_PRIVATE_TOKEN}})
-
-![TON](https://raw.githubusercontent.com/TwinCAT-Libre/source/master/TcL_Timers/imgs/Heartbeat.jpg?token=${{secrets.READ_PRIVATE_TOKEN2}})
+![TON](https://github.com/TwinCAT-Libre/images/blob/main/Timers/TON.jpg?raw=true)
 
 
 Extension of the basic on delay timer with additional data - actively timing, remaining time. 
 
 ## TONRT
-![TONRT](https://github.com/TwinCAT-Libre/source/blob/master/TcL_Timers/imgs/TONRT.jpg)
+![TONRT](https://github.com/TwinCAT-Libre/images/blob/main/Timers/TONRT.jpg?raw=true)
 
 Retentive on delay timer with reset
 
 ## TOF
-![TOF](https://github.com/TwinCAT-Libre/source/blob/master/TcL_Timers/imgs/TOF.jpg)
+![TOF](https://github.com/TwinCAT-Libre/images/blob/main/Timers/TOF.jpg?raw=true)
 
 Extension of the basic off delay timer with additional data - actively timing, remaining time. 
 
 ## TOFRT
-![TOFRT](https://github.com/TwinCAT-Libre/source/blob/master/TcL_Timers/imgs/TOFRT.jpg)
+![TOFRT](https://github.com/TwinCAT-Libre/images/blob/main/Timers/TOFRT.jpg?raw=true)
 
 Retentive off delay timer with reset
 
